@@ -8,6 +8,7 @@ if(n==1) {
 }
 else {
 	System.out.println("F");
+	
 }
 }
 }
